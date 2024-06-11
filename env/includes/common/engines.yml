@@ -17,19 +17,19 @@ common.engines.tk-katana.location:
   type: dev
   name: tk-katana
   version: v0.0.1
-  path: "/RAPA/tk_custom_engines/tk-katana/v0.0.1"
+  path: "/RAPA/shotgun-ww/engines/tk-katana/v0.0.1"
 
 common.engines.tk-clarisse.location:
   type: dev
   name: tk-clarisse
   version: v0.0.1
-  path: "/RAPA/tk_custom_engines/tk-clarisse/v0.0.1"
+  path: "/RAPA/shotgun-ww/engines/tk-clarisse/v0.0.1"
 
 common.engines.tk-mari.location:
   type: dev
   name: tk-mari
   version: v1.4.1
-  path: "/RAPA/tk_custom_engines/tk-mari/v1.4.1"
+  path: "/RAPA/shotgun-ww/engines/tk-mari/v1.4.1"
 
 ##################################################
 

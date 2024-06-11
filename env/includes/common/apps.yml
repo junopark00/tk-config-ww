@@ -23,7 +23,7 @@ common.apps.tk-multi-workfiles2.location:
   type: dev
   name: tk-multi-workfiles2
   version: v0.15.1
-  path: "/RAPA/tk_custom_apps/tk-multi-workfiles2/v0.15.1"
+  path: "/RAPA/shotgun-ww/apps/tk-multi-workfiles2/v0.15.1"
 
 common.apps.tk-mari-projectmanager.location:
   type: app_store
@@ -33,13 +33,7 @@ common.apps.tk-mari-projectmanager.location:
 common.apps.tk-desktop-timecard.location:
   type: dev
   name: tk-desktop-timecard
-  path: "/RAPA/tk_custom_apps/tk-desktop-timecard"
-
-common.apps.tk-multi-loader2.location:
-  type: dev
-  name: tk-multi-loader2
-  version: v1.25.0
-  path: "/RAPA/tk_custom_apps/tk-multi-loader2/v1.25.0"
+  path: "/RAPA/shotgun-ww/apps/tk-desktop-timecard"
 
 ##############################################
 
@@ -48,6 +42,10 @@ common.apps.tk-multi-about:
     version: v0.5.0
     type: app_store
     name: tk-multi-about
+common.apps.tk-multi-loader2.location:
+  type: app_store
+  name: tk-multi-loader2
+  version: v1.25.0
 common.apps.tk-multi-pythonconsole:
   location:
     version: v1.4.0
